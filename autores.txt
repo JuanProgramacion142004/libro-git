@@ -1,0 +1,2 @@
+Nombre del usuario
+Correo electrónico del usuario
